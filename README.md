@@ -52,3 +52,6 @@ INFO:llama_index.token_counter.token_counter:> [query] Total embedding token usa
 聞きたいことを教えてください。
 ```
 
+# todo
+
+- Google SheetsReader improvements
