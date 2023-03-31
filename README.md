@@ -11,7 +11,7 @@ This example creates index from [Google Sheet](https://docs.google.com/spreadshe
 
 The spreadsheet_id in this sheet is the URL segment marked below.
 
-https://docs.google.com/spreadsheets/d/`1NM7l4LyisJQ4lx7kQZBqs9us4faDBeseSJDVKuzszlU`/edit#gid=0
+ttps://docs.google.com/spreadsheets/d/`1NM7l4LyisJQ4lx7kQZBqs9us4faDBeseSJDVKuzszlU`/edit#gid=0
 
 Specify the spreadsheet_id as the bot launch argument as shown below.
 
